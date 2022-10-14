@@ -11,7 +11,6 @@ export function SignIn() {
   const [isUserSignedIn, setIsUserSignedIn] = useState(false)
 function handleSignIn(event: FormEvent) {
   event.preventDefault()
-
   setIsUserSignedIn(true)
 }
 
