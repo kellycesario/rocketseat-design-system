@@ -1,6 +1,6 @@
 # Ignite Lab | Rocketseat | Design System 🚀
 
-### Projeto de desenvolvevimento de um Design System do Figma ao React. | Development of a Design System Project from Figma to React.
+### Projeto de desenvolvimento de um Design System do Figma ao React. | Development of a Design System Project from Figma to React.
 
 #### Design do Form (Criado no Figma) | Form Design (Created in Figma)
 ![design/form](https://github.com/kellycesario/rocketseat-design-system/blob/main/public/images/Design.png)
